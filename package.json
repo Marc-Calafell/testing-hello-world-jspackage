@@ -1,0 +1,15 @@
+{
+  "name": "testing-hello-world-jspackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "marccalafell-hello-world-jspackage": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MarcCalafell (marccalafell.tk)",
+  "license": "ISC"
+}
